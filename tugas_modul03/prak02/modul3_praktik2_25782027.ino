@@ -5,7 +5,7 @@
 const char* ssid = "Infinix GT 30 Pro";  
 const char* password = "murahcpv";
 
-const char* serverName = "http://192.168.1.15/relay/on";   
+const char* serverName = "http://10.21.86.244/relay/on";   
 const byte ldrPin = A0;
 
 void setup() {  
